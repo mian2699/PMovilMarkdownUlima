@@ -134,4 +134,6 @@ RepIt.it puede ayudar en la gestión de los recursos de idioma y traducción de 
 
 ![Alt text](VT0nJWD138NXtgTmIOfS0GK58j62e3SpPddIn8uyNYH0d8eZS35sLr0iHRgHlj-lc5rFYHoFZPe-9wTpO7X9hWWj2JSYAUd13tsKWBFqwQb1DBlOq9IlJWr54g_E7yGBytPxoHTtEg1dE5Vzk--RLN5hA5ZyNZk-lspDZvYk6jwbp3PdrvB_D_QXl_x6DnLd.png)
 
-## 
+## - Mockup:
+
+![Alt text](Mockup.png)
